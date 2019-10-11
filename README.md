@@ -1,1 +1,2 @@
-模式识别作业啊啊啊啊a
+模式识别分类器  pla  fisher svm  ovo  
+特征提取  基于pva的人脸识别  数据集来自LFW
